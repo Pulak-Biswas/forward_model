@@ -1,6 +1,6 @@
-% Assignment_7
+% Dike model
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%$$$$$$
-% Q.2
+
 clear all,close all
 CF = 100; %[=2*J*sin(tht)](amplitude coefficient)
 Q = [0,30,60,90]; %(arbitrary angle of magnetisation)
