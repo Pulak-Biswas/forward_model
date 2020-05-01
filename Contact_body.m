@@ -1,7 +1,7 @@
-% Assignment_7
+% Contact body
 clear all,close all
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Q.1
+
 CF = 100; %Amplitude coefficient
 tht = [0,pi/6,pi/4,pi/3,pi/2]; %arbitrary magnetization angle
 h = [5,10, 15]; %(Depth to the center of the body)
